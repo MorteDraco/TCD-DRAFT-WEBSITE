@@ -4,4 +4,6 @@ http://coderdojobexhill.wix.com/thecodedojo
 
 Draft for website for TCD
 
-PLEASE HELP RECOMMEND IMPORVEMENTS
+Check out main html and css for files, pictures ask from us
+
+PLEASE HELP BY RECOMMENDING IMPORVEMENTS 
