@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#header {
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding:5px;
+	
+}
+
+#nav {
+	line-height:30px;
+	background-color:#eeeeee;
+	height:300px;
+	width:100px;
+	float:let;
+	padding:5px;
+}
