@@ -2,18 +2,64 @@
 /* CSS Document */
 
 #header {
-	background-color:black;
-	color:white;
+	background-color:White;
+	color:black;
 	text-align:center;
 	padding:5px;
+	font-family:"Arial Black", Gadget, sans-serif;
 	
 }
 
+#Home {
+	background-color:White;
+	color:black;
+	text-align:left;
+	padding:5px;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+
 #nav {
+	
 	line-height:30px;
-	background-color:#eeeeee;
+	background-color:white;
 	height:300px;
 	width:100px;
-	float:let;
+	float: left;
 	padding:5px;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+
+#footer {
+	background-color:white;
+    color:#999999;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+/* unvisited link */
+
+a:link {
+    color:white;
+	text-decoration: none;
+	background-color:#CCC;
+}
+
+a:visited {
+	color:white;
+	text-decoration: ;
+	background-color:#CCC;
+}
+
+/* mouse over link */
+a:hover {
+     color:#FFF;
+	text-decoration: none;
+	background-color:#F00;
+}
+
+/* selected link */
+a:active {
+    color:#666;
+	text-decoration: none;
+	background-color:#F00;
 }
