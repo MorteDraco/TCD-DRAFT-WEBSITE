@@ -1,6 +1,6 @@
 # TCD-DRAFT-WEBSITE
 
-http://coderdojobexhill.wix.com/thecodedojo
+http://mortedraco.wix.com/the-code-dojo
 
 Draft for website for TCD
 
