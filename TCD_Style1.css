@@ -30,11 +30,13 @@
 }
 
 #footer {
-	background-color:white;
-    color:#999999;
+    background-color:white;
+    color:black;
     clear:both;
     text-align:center;
     padding:5px;	 	 
+    font-family:'Arial black', Gadget, sans-serif;
+
 }
 /* unvisited link */
 
@@ -57,9 +59,3 @@ a:hover {
 	background-color:#F00;
 }
 
-/* selected link */
-a:active {
-    color:#666;
-	text-decoration: none;
-	background-color:#F00;
-}
